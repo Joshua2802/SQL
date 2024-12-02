@@ -1,3 +1,4 @@
+## Queries used:
 SELECT *
 FROM Project1.dbo.CovidDeaths
 WHERE continent IS NOT NULL 
